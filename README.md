@@ -1,14 +1,5 @@
-# Repo Structure
-- game db: using https://www.freetogame.com/api-doc atm
-- static:
--
--
--
--
-
 # Dev
 ```
-***DOESNT WORK ATM***
 cargo install cargo-watch
 cargo watch -x run
 https://github.com/watchexec/watchexec
